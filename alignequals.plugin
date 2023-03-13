@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=alignequals
+IAge=3
+Name=Align Equals
+Description=Align code at equal signs
+Authors=Sven Augustin <nichtjens@gmail.com>
+Copyright=Copyright © 2023 Sven Augustin <nichtjens@gmail.com>
+Website=https://github.com/NichtJens/gedit-plugin-CodeAlign
